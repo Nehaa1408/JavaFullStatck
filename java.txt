@@ -4,7 +4,7 @@ return "successful";}
 }
 
 
-<<<<<<< Updated upstream
+
 
 
 
@@ -28,4 +28,3 @@ fsfakfjaslfjas;fjsljf;sljfsfsff
 fsfsfsfasfasfasfsafasfd
 sfasfasfasfasfsdfasdfas
 fsafasfasfsafasfsafasfaafsfsffdfdfsff
->>>>>>> Stashed changes
